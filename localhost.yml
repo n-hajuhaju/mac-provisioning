@@ -10,6 +10,7 @@
       - caskroom/versions
       - railwaycat/emacsmacport
       - sanemat/font
+      - josegonzalez/homebrew-php
     homebrew_packages:
       - { name: readline }
       - { name: openssl }
