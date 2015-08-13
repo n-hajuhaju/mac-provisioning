@@ -6,6 +6,7 @@
     homebrew_taps:
       - homebrew/binary
       - homebrew/dupes
+      - homebrew/apache
       - caskroom/cask
       - caskroom/versions
       - railwaycat/emacsmacport
