@@ -59,6 +59,7 @@
       - { name: source-highlight }
       - { name: phpenv }
     homebrew_cask_packages:
+      - { name: alfred }
       - { name: iterm2 }
       - { name: firefox-ja }
       - { name: google-chrome }
