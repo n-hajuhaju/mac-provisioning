@@ -10,7 +10,6 @@
       - caskroom/versions
       - railwaycat/emacsmacport
       - sanemat/font
-      - josegonzalez/homebrew-php
     homebrew_packages:
       - { name: readline }
       - { name: openssl }
@@ -57,7 +56,6 @@
       - { name: autojump }
       - { name: gibo }
       - { name: source-highlight }
-      - { name: phpenv }
     homebrew_cask_packages:
       - { name: iterm2 }
       - { name: firefox-ja }
