@@ -58,6 +58,14 @@
       - { name: gibo }
       - { name: source-highlight }
       - { name: phpenv }
+      - { name: libevent }
+      - { name: libjpeg }
+      - { name: libpng }
+      - { name: mcrypt }
+      - { name: libtool }
+      - { name: libxml2 }
+      - { name: lemon }
+      - { name: re2c }
     homebrew_cask_packages:
       - { name: alfred }
       - { name: iterm2 }
