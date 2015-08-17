@@ -66,6 +66,7 @@
       - { name: libxml2 }
       - { name: lemon }
       - { name: re2c }
+      - { name: httpd22 }
     homebrew_cask_packages:
       - { name: alfred }
       - { name: iterm2 }
@@ -89,6 +90,7 @@
       - { name: dropbox }
       - { name: cyberduck }
       - { name: xtrafinder }
+      - { name: appcleaner }
   tasks:
     - name: homebrew の tap リポジトリを追加
       homebrew_tap: tap={{ item }} state=present
